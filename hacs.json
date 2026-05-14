@@ -1,0 +1,7 @@
+{
+  "name": "Light Panel Card",
+  "description": "Lovelace card for lights & smart plugs with live timers, visual editor and lock protection",
+  "render_readme": true,
+  "filename": "light-panel-card.js",
+  "homeassistant": "2023.0.0"
+}
